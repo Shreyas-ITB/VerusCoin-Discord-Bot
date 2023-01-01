@@ -1,0 +1,6 @@
+discord==2.1.0
+pythonping
+bs4
+requests
+asyncio==3.4.3
+wavelink
